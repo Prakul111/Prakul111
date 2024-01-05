@@ -3,7 +3,7 @@
 </div>  
   
 
-# ***<div align="center">I'm a full-time full-stack developer also available for👨‍💻 working remotely  🚀.</div>***  
+# ***<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+a++full-Stack+developer+also+;available+for%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+working+remote+%F0%9F%9A%80.)](https://git.io/typing-svg)</div>***  
   
 
 - # 🔭 I’m currently working on DevSecOps  
@@ -120,7 +120,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakul111&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prakul111&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Prakul111&theme=dark" alt="GitHub Streak" /></a></div>  
 
 <br/>  
 
