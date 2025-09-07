@@ -17,7 +17,6 @@ I'm a **Front-End Developer** passionate about building user-friendly web apps. 
 
 ### Let’s Connect
 - LinkedIn: [https://www.linkedin.com/in/prakul-tripathi-419596324/](#) 
-- Email: [iamprakul111@gmail.com](#) 
 - X: [https://x.com/TripathiPrakul](#) 
 
 Looking forward to building something awesome together!
